@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+    <TextView
+        android:id="@+id/child_items"
+        android:layout_width="match_parent"
+        android:paddingLeft="32dp"
+        android:paddingTop="5dp"
+        android:background="@color/blue_500_50"
+        android:paddingBottom="5dp"
+        android:textColor="@color/black"
+        android:textSize="@dimen/seve_inch_tab_childTextSize"
+        android:layout_height="match_parent"
+        />
+
+</LinearLayout>

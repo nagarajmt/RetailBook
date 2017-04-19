@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">రిటైల్ బుక్</string>
+    <string name="create_cashInvoice_lable">వాయిస్</string>
+    <string name="create_material_lable">ఇన్వెంటరీ</string>
+    <string-array name="header_titles">
+        <item>సులభ ప్రవేశం</item>
+        <item>సేల్స్ నమోదు</item>
+        <item>కస్టమర్ మాస్టర్</item>
+        <item>వేన్డర  మాస్టర్</item>
+        <item>ఆర్డర్ మేనేజ్మెంట్</item>
+        <item>ఇన్వెంటరీ మేనేజ్మెంట్</item>
+        <item>ఇతర ఖర్చుల &amp; రెవెన్యూ</item>
+        <item>నివేదికలు</item>
+    </string-array>
+
+    <string-array name="h2_items">
+        <item>క్యాష్ వాయిస్ సృష్టించు</item>
+        <item>క్రెడిట్ వాయిస్ సృష్టించు</item>
+    </string-array>
+
+    <string-array name="h3_items">
+        <item>కస్టమర్ సృష్టించు</item>
+        <item>కస్టమర్ నిర్వహించడానికి</item>
+        <item>జాబితా వినియోగదారుడు</item>
+    </string-array>
+
+    <string-array name="h4_items">
+        <item>వేన్డర సృష్టించు</item>
+        <item>వేన్డర నిర్వహించడానికి</item>
+        <item>వేన్డర చెల్లింపు</item>
+        <item>జాబితా విక్రేతల</item>
+    </string-array>
+
+    <string-array name="h5_items">
+        <item>ప్లేస్ ఆర్డర్</item>
+        <item>పెండింగ్ ఆర్డర్ తనిఖీ</item>
+        <item>ఆర్డర్ చరిత్ర</item>
+    </string-array>
+
+    <string-array name="h6_items">
+        <item>మెటీరియల్ సృష్టించు</item>
+        <item>స్టాక్ తనిఖీ</item>
+    </string-array>
+    <string-array name="h7_items">
+        <item>ఖర్చుల ఎంటర్</item>
+        <item>రెవెన్యూ ఎంటర్</item>
+        <item>బ్యాంక్ లావాదేవీలు నవీకరణ</item>
+    </string-array>
+    <string-array name="h8_items">
+        <item>క్యాష్ సేల్స్ నివేదిక</item>
+        <item>క్రెడిట్ సేల్స్ నివేదిక</item>
+        <item>సేల్స్ నివేదిక</item>
+        <item>స్టాక్ రిపోర్ట్</item>
+        <item>విక్రేత ఆర్డర్ నివేదిక</item>
+        <item>విక్రేత చెల్లింపు చరిత్ర</item>
+        <item>విక్రేత క్రెడిట్ నివేదిక</item>
+        <item>కస్టమర్ ఏజింగ్ నివేదిక</item>
+        <item>ఇతర ఖర్చుల నివేదిక</item>
+        <item>ఇతర రెవెన్యూ నివేదిక</item>
+        <item>P&amp;L నివేదిక</item>
+    </string-array>
+
+    <string name="CreateCashInvoice_Tab1">అంశాలు</string>
+    <string name="CreateCashInvoice_Tab2">చెల్లింపు</string>
+    <string name="tab1_sno">Sno</string>
+    <string name="tab1_item">అంశం</string>
+    <string name="tab1_price">ధర</string>
+    <string name="tab1_Qty">అంశాల</string>
+    <string name="tab1_total">మొత్తం</string>
+    <string name="button">సబ్మిట</string>
+
+    <string name="iten_name_hint">వస్తువు పేరు</string>
+    <string name="item_desc_hint">వస్తువు వివరణ</string>
+    <string name="item_price_hint">ధర</string>
+    <string name="item_qty_hint">మొత్తము</string>
+
+
+</resources>

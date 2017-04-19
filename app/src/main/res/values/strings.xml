@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">RetailBook</string>
+    <string name="create_cashInvoice_lable">Invoice</string>
+    <string name="create_material_lable">Inventory</string>
+    <string-array name="header_titles">
+        <item>Easy Access</item>
+        <item>Sales Register</item>
+        <item>Customer Master</item>
+        <item>Vendor Master</item>
+        <item>Order Management</item>
+        <item>Inventroy Management</item>
+        <item>Other Expense &amp; Revenue</item>
+        <item>Reports</item>
+    </string-array>
+
+    <string-array name="h2_items">
+        <item>Create Cash Invoice</item>
+        <item>Create Credit Invoice</item>
+    </string-array>
+
+    <string-array name="h3_items">
+        <item>Create Customer</item>
+        <item>Maintain Customer</item>
+        <item>List Customers</item>
+    </string-array>
+
+    <string-array name="h4_items">
+        <item>Create Vendor</item>
+        <item>Maintain Vendor</item>
+        <item>Vendor Payment</item>
+        <item>List Vendors</item>
+    </string-array>
+
+    <string-array name="h5_items">
+        <item>Place Order</item>
+        <item>Check Pending Order</item>
+        <item>Order History</item>
+    </string-array>
+
+    <string-array name="h6_items">
+        <item>Create Material</item>
+        <item>Check Stock</item>
+    </string-array>
+    <string-array name="h7_items">
+        <item>Enter Expense</item>
+        <item>Enter Revenue</item>
+        <item>Bank Transactions Update</item>
+    </string-array>
+    <string-array name="h8_items">
+        <item>Cash Sales Report</item>
+        <item>Credit Sales Report</item>
+        <item>Sales Report</item>
+        <item>Stock Report</item>
+        <item>Vendor Order Report</item>
+        <item>Vendor Payment History</item>
+        <item>Vendor Credit Report</item>
+        <item>Customer Ageing Report</item>
+        <item>Other Expense Report</item>
+        <item>Other Revenue Report</item>
+        <item>P&amp;L Report</item>
+    </string-array>
+
+    <string name="CreateCashInvoice_Tab1">Items</string>
+    <string name="CreateCashInvoice_Tab2">Payment</string>
+    <string name="tab1_sno">Sno</string>
+    <string name="tab1_item">Item</string>
+    <string name="tab1_price">Price</string>
+    <string name="tab1_Qty">Qty</string>
+    <string name="tab1_total">Total</string>
+    <string name="button">submit</string>
+
+    <string name="iten_name_hint">Item Name</string>
+    <string name="item_desc_hint">Item Description</string>
+    <string name="item_price_hint">Price</string>
+    <string name="item_qty_hint">Quantity</string>
+
+
+</resources>

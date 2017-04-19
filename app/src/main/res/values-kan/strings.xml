@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">ಚಿಲ್ಲರೆ ಪುಸ್ತಕ</string>
+    <string name="create_cashInvoice_lable">ಸರಕುಪಟ್ಟಿ</string>
+    <string name="create_material_lable">ಇನ್ವೆಂಟರಿ</string>
+    <string-array name="header_titles">
+        <item>ಸುಲಭ ಪ್ರವೇಶ</item>
+        <item>ಮಾರಾಟದ ನೋಂದಣಿ</item>
+        <item>ಗ್ರಾಹಕ ಮಾಸ್ಟರ್</item>
+        <item>ವೆಂಡರ್ ಮಾಸ್ಟರ್</item>
+        <item>ಆರ್ಡರ್ ಮ್ಯಾನೇಜ್ಮೆಂಟ್</item>
+        <item>ಇನ್ವೆಂಟರಿ ಮ್ಯಾನೇಜ್ಮೆಂಟ್</item>
+        <item>ಇತರೆ ಖರ್ಚು &amp; ಕಂದಾಯ</item>
+        <item>ವರದಿಗಳು</item>
+    </string-array>
+
+    <string-array name="h2_items">
+        <item>ನಗದು ಸರಕುಪಟ್ಟಿ ರಚಿಸಿ</item>
+        <item>ಕ್ರೆಡಿಟ್ ಸರಕುಪಟ್ಟಿ ರಚಿಸಿ</item>
+    </string-array>
+
+    <string-array name="h3_items">
+        <item>ಗ್ರಾಹಕ ರಚಿಸಿ</item>
+        <item>ಗ್ರಾಹಕ ನಿರ್ವಹಿಸುವುದು</item>
+        <item>ಪಟ್ಟಿ ಗ್ರಾಹಕರು</item>
+    </string-array>
+
+    <string-array name="h4_items">
+        <item>ವೆಂಡರ್ ರಚಿಸಿ</item>
+        <item>ವೆಂಡರ್ ನಿರ್ವಹಿಸುವುದು</item>
+        <item>ವೆಂಡರ್ ಪಾವತಿ</item>
+        <item>ಪಟ್ಟಿ ಮಾರಾಟಗಾರರು</item>
+    </string-array>
+
+    <string-array name="h5_items">
+        <item>ಆದೇಶ</item>
+        <item>ಬಾಕಿ ಆರ್ಡರ್ ಪರಿಶೀಲಿಸಿ</item>
+        <item>ಆರ್ಡರ್ ಇತಿಹಾಸ</item>
+    </string-array>
+
+    <string-array name="h6_items">
+        <item>ವಸ್ತು ರಚಿಸಿ</item>
+        <item>ಸ್ಟಾಕ್ ಪರಿಶೀಲಿಸಿ</item>
+    </string-array>
+    <string-array name="h7_items">
+        <item>ವೆಚ್ಚದಲ್ಲಿ ನಮೂದಿಸಿ</item>
+        <item>ಕಂದಾಯ ನಮೂದಿಸಿ</item>
+        <item>ಬ್ಯಾಂಕ್ ಟ್ರಾನ್ಸಾಕ್ಷನ್ಸ್ ನವೀಕರಣ</item>
+    </string-array>
+    <string-array name="h8_items">
+        <item>ನಗದು ಮಾರಾಟದ ವರದಿ</item>
+        <item>ಕ್ರೆಡಿಟ್ ಮಾರಾಟದ ವರದಿ</item>
+        <item>ಮಾರಾಟದ ವರದಿ</item>
+        <item>ಸ್ಟಾಕ್ ವರದಿ</item>
+        <item>ವೆಂಡರ್ ಆರ್ಡರ್ ವರದಿ</item>
+        <item>ವೆಂಡರ್ ಪಾವತಿ ಇತಿಹಾಸ</item>
+        <item>ಮಾರಾಟಗಾರರ ಕ್ರೆಡಿಟ್ ವರದಿ</item>
+        <item>ಗ್ರಾಹಕ ಏಜಿಂಗ್ ವರದಿ</item>
+        <item>ಇತರೆ ಖರ್ಚು ವರದಿ</item>
+        <item>ಬೇರೆ ಆದಾಯದ ವರದಿ</item>
+        <item>P&amp;L ವರದಿ</item>
+    </string-array>
+
+    <string name="CreateCashInvoice_Tab1">ವಸ್ತುಗಳು</string>
+    <string name="CreateCashInvoice_Tab2">ಪಾವತಿ</string>
+    <string name="tab1_sno">Sno</string>
+    <string name="tab1_item">ವಸ್ತುಗಳು</string>
+    <string name="tab1_price">ಬೆಲೆ</string>
+    <string name="tab1_Qty">ಪ್ರಮಾಣ</string>
+    <string name="tab1_total">ಒಟ್ಟು</string>
+    <string name="button">ಸಲ್ಲಿಸಲು</string>
+
+    <string name="iten_name_hint">ವಸ್ತುವಿನ ಹೆಸರು</string>
+    <string name="item_desc_hint">ವಸ್ತುವಿನ ವಿವರಣೆ</string>
+    <string name="item_price_hint">ಬೆಲೆ</string>
+    <string name="item_qty_hint">ಪ್ರಮಾಣ</string>
+
+
+</resources>

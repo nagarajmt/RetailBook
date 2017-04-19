@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--potrate mode dimens-->
+    <dimen name="header_text_size">23dp</dimen>
+    <dimen name="child_text_size">20dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    
+    <dimen name="layout_marginLeft_15dp">15dp</dimen>
+    <dimen name="layout_marginRight_15dp">15dp</dimen>
+
+    <dimen name="layout_marginTop">60dp</dimen>
+    <dimen name="weightSum_5dp">5dp</dimen>
+    <dimen name="weight_1dp">1dp</dimen>
+    <dimen name="textSize_itemView_Header">20dp</dimen>
+
+    <!--land scape mode dimens-->
+    <dimen name="Land_createMaterial_marginTop">10dp</dimen>
+
+
+    <!--potrate 7inch tab-->
+    <dimen name="seven_inch_tab_parentTextSize">60dp</dimen>
+    <dimen name="seve_inch_tab_childTextSize">55dp</dimen>
+    <dimen name="seve_inch_tab_itemTab_textSize">40dp</dimen>
+    <dimen name="seve_inch_tab_itemTab_marginTop">80dp</dimen>
+
+   <!-- Normal size land-->
+    <dimen name="Normal_land_margin_top">20dp</dimen>
+
+
+
+</resources>

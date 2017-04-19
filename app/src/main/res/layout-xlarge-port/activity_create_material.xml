@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/background_gradient"
+    android:orientation="vertical"
+    android:focusable="false"
+    android:focusableInTouchMode="true"
+    android:layout_height="match_parent"
+    tools:context="com.example.emp2.expandablelistview.CreateMaterial">
+
+<android.support.design.widget.TextInputLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/layout_marginTop"
+    android:layout_marginLeft="@dimen/layout_marginLeft_15dp"
+    android:layout_marginRight="@dimen/layout_marginRight_15dp"
+    android:textColorHint="@color/black"
+    app:hintTextAppearance="@color/black">
+
+    <EditText
+        android:id="@+id/etItemName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/iten_name_hint"
+        android:inputType="textPersonName"
+        />
+</android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/layout_marginTop"
+        android:layout_marginLeft="@dimen/layout_marginLeft_15dp"
+        android:layout_marginRight="@dimen/layout_marginRight_15dp"
+        android:textColorHint="@color/black"
+        app:hintTextAppearance="@color/black">
+
+        <EditText
+            android:id="@+id/etDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/item_desc_hint"
+            android:inputType="textPersonName"
+            />
+    </android.support.design.widget.TextInputLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/layout_marginTop"
+        android:layout_marginLeft="@dimen/layout_marginLeft_15dp"
+        android:layout_marginRight="@dimen/layout_marginRight_15dp"
+        android:textColorHint="@color/black"
+        app:hintTextAppearance="@color/black">
+
+        <EditText
+            android:id="@+id/itemcost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/item_price_hint"
+            android:inputType="numberDecimal"
+            />
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="0dp"
+
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/layout_marginTop"
+        android:layout_marginLeft="@dimen/layout_marginLeft_15dp"
+        android:layout_marginRight="@dimen/layout_marginRight_15dp"
+        android:textColorHint="@color/black"
+        app:hintTextAppearance="@color/black">
+
+        <EditText
+            android:id="@+id/itemQty"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/item_qty_hint"
+            android:inputType="number"
+            />
+    </android.support.design.widget.TextInputLayout>
+</LinearLayout>
+    <Button
+        android:id="@+id/submitBtn"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/layout_marginTop"
+        android:text="@string/button" />
+
+
+</LinearLayout>

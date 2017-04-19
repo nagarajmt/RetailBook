@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">रिटेल बुक</string>
+    <string name="create_cashInvoice_lable">चालान</string>
+    <string name="create_material_lable">इन्वेंटरी</string>
+    <string-array name="header_titles">
+        <item>आसान पहुँच</item>
+        <item>बिक्री रजिस्टर</item>
+        <item>ग्राहक मास्टर</item>
+        <item>विक्रेता मास्टर</item>
+        <item>आदेश का प्रबंधन</item>
+        <item>सूची प्रबंधन</item>
+        <item>अन्य व्यय &amp; राजस्व</item>
+        <item>रिपोर्ट</item>
+    </string-array>
+
+    <string-array name="h2_items">
+        <item>नकद चालान बनाने</item>
+        <item>क्रेडिट चालान बनाएं</item>
+    </string-array>
+
+    <string-array name="h3_items">
+        <item>ग्राहक बनाएं</item>
+        <item>ग्राहक बनाए रखें</item>
+        <item>सूची ग्राहकों</item>
+    </string-array>
+
+    <string-array name="h4_items">
+        <item>विक्रेता बनाएं</item>
+        <item>विक्रेता को बनाए रखें</item>
+        <item>विक्रेता भुगतान</item>
+        <item>सूची विक्रेताओं</item>
+    </string-array>
+
+    <string-array name="h5_items">
+        <item>आदेश देना</item>
+        <item>विचाराधीन आदेश की जाँच करें</item>
+        <item>आदेश इतिहास</item>
+    </string-array>
+
+    <string-array name="h6_items">
+        <item>सामग्री बनाएं</item>
+        <item>भंडार की जाँच करो</item>
+    </string-array>
+    <string-array name="h7_items">
+        <item>व्यय दर्ज</item>
+        <item>राजस्व दर्ज</item>
+        <item>बैंक व्यवहार अद्यतन</item>
+    </string-array>
+    <string-array name="h8_items">
+        <item>नकदी बिक्री रिपोर्ट</item>
+        <item>ऋण उधार बिक्री रिपोर्ट</item>
+        <item>बिक्री रिपोर्ट</item>
+        <item>स्टॉक रिपोर्ट</item>
+        <item>विक्रेता आदेश रिपोर्ट</item>
+        <item>विक्रेता बनाएं इतिहास</item>
+        <item>विक्रेता साख-पत्र</item>
+        <item>ग्राहक एजिंग रिपोर्ट</item>
+        <item>अन्य व्यय रिपोर्ट</item>
+        <item>अन्य राजस्व की रिपोर्ट</item>
+        <item>P&amp;L रिपोर्ट</item>
+    </string-array>
+
+    <string name="CreateCashInvoice_Tab1">आइटम</string>
+    <string name="CreateCashInvoice_Tab2">भुगतान</string>
+    <string name="tab1_sno">Sno</string>
+    <string name="tab1_item">मद</string>
+    <string name="tab1_price">मूल्य</string>
+    <string name="tab1_Qty">मात्रा</string>
+    <string name="tab1_total">कुल</string>
+    <string name="button">जमा करें</string>
+
+    <string name="iten_name_hint">मद नाम</string>
+    <string name="item_desc_hint">मद विवरण</string>
+    <string name="item_price_hint">मूल्य</string>
+    <string name="item_qty_hint">मात्रा</string>
+
+
+</resources>
